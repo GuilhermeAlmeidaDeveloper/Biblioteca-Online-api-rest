@@ -1,0 +1,26 @@
+{
+  "name": "biblioteca-online-api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeAlmeidaDeveloper/Biblioteca-Online-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeAlmeidaDeveloper/Biblioteca-Online-api-rest/issues"
+  },
+  "homepage": "https://github.com/GuilhermeAlmeidaDeveloper/Biblioteca-Online-api-rest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
